@@ -4,3 +4,4 @@ Changes include:
 - Node Version Manager, Node.js (v18), and NPM setup.
 - Coding folders
 - Python3 and Pip install
+- Install things ( build-essential, git )
